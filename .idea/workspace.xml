@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6587d586-c702-4ac1-af03-567c3e40b474" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/factory/car/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/factory/car/CarFactory.java" afterDir="false" />
-    </list>
+    <list default="true" id="6587d586-c702-4ac1-af03-567c3e40b474" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "factory",
+    "git-widget-placeholder": "master",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
