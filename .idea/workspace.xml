@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6587d586-c702-4ac1-af03-567c3e40b474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Lexus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/AutoInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/InsuranceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/RenterInsurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,13 +44,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "singleton",
+    "git-widget-placeholder": "factory",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.factory.car.Driver">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singleton.Driver" />
       <module name="JavaDesignPattern" />
@@ -53,8 +64,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="factory.car.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.car.Driver" />
+      <module name="JavaDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factory.insurance.Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.insurance.Driver" />
+      <module name="JavaDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.insurance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.factory.car.Driver" />
+        <item itemvalue="Application.factory.insurance.Driver" />
         <item itemvalue="Application.Driver" />
       </list>
     </recent_temporary>
