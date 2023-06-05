@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6587d586-c702-4ac1-af03-567c3e40b474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Lexus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/car/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/AutoInsurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/InsuranceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/insurance/RenterInsurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/car/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/factory/car/CarFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
