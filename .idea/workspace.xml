@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6587d586-c702-4ac1-af03-567c3e40b474" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dependency_injection/AdvancedWheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dependency_injection/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dependency_injection/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dependency_injection/Wheel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/singleton/Singleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +33,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dependency-injection",
+    "git-widget-placeholder": "singleton",
     "last_opened_file_path": "C:/Users/duan9/IdeaProjects/JavaDesignPattern",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.dependency_injection.Driver">
+  <component name="RunManager" selected="Application.Driver">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singleton.Driver" />
       <module name="JavaDesignPattern" />
@@ -99,10 +95,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.dependency_injection.Driver" />
         <item itemvalue="Application.factory.car.Driver" />
         <item itemvalue="Application.factory.insurance.Driver" />
-        <item itemvalue="Application.Driver" />
       </list>
     </recent_temporary>
   </component>
